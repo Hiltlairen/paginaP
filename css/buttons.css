@@ -1,16 +1,30 @@
 
 .btn1{
-    background-color: #0e0d13;
+    background-color: #272829;
+    
+  
+    top: 280px;
+    left: 30%;
+    border-radius: 5%;
     position: absolute;
-    width: 4.5%;
-    height: 20px;
-    top: 90px;
-    left: 75%;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+
     color: white;
     font-family: 'Ubuntu', sans-serif;
 }
+.btn1:hover{
+    letter-spacing: 0.25em;    
+}
 .btn2{
-    background-color: #0e0d13;
+    background-color: #272829;
     position: absolute;
     width: 5.2%;
     height: 20px;
@@ -19,7 +33,7 @@
     color: white;
 }
 .btn3{
-    background-color: #0e0d13;
+    background-color: #272829;
     position: absolute;
     width: 3.5%;
     height: 20px;
@@ -28,7 +42,7 @@
     color: white;
 }
 .btn4{
-    background-color: #0e0d13;
+    background-color: #272829;
     position: absolute;
     width: 6%;
     height: 20px;

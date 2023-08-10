@@ -1,20 +1,76 @@
 *{
-    background-color: #0e131b;
+    background-color: #355C7D;
 }
 header{
     height: 80px;
     top: 0%;
-    background-color: #272b32;
+    background-color: #6C5B7B;
     color: white;
     border: #272b32;
 
 }
 #titulo{
     color: white;
-    background-color: #272b32;
+    background-color: #6C5B7B;
 }
 
 
 #divisores{
     width: 20px;
+}
+.Card{
+    position: absolute;
+    border-radius: 15%;
+    width: 40%;
+    height: 55%;
+    top: 30%;
+    left:30%;
+    background-color: #F67280;
+}
+.icon{
+    position: absolute;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    top: -80px;
+    left:37%;
+    background-color: #F67280;
+}
+#icono{
+    background-color: #C06C84;
+    position: absolute;
+    border-radius: 100%;
+    width: 140px;
+    height: 140px;
+    top: 5px;
+    left:3%;
+    
+}
+.borde{
+    position: absolute;
+    border-radius: 15%;
+    width: 98%;
+    height: 98%;
+    top: 1%;
+    left:1%;
+    background-color: #C06C84;
+}
+
+#texto{
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    background-color: #C06C84;
+}
+
+#contexto{
+    font-family: 'Caveat', cursive;
+    font-size: 15px;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    width: 83%;
+    background-color: #C06C84;
 }
